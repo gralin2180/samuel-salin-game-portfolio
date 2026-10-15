@@ -10,7 +10,16 @@ UE 5.8.3 build and automated traversal/regression checks passed. Animation polis
 
 ## Gameplay and playable builds
 
-Gameplay media and playable-build links will be added after review. No public playable build is available through this page yet. The planned distribution site is itch.io; the profile and project URLs are not configured.
+[Download the free Windows playtest on itch.io](https://gralin2180.itch.io/momos-adventures).
+
+Build: 15 October 2026 · Unreal Engine 5.8.3 · Windows x64 · 424.86 MiB ZIP.
+Extract the entire archive and run `Play-Moonroot.bat` for the curated first Moonroot level. Unreal Editor is not required.
+
+The packaged build and a freshly extracted ZIP passed automated launch and traversal checks. Injected controller/remapping checks passed. This is an early Development build; animation, readability and combat balance remain unfinished. Physical controllers, audio and clean-PC/GPU compatibility have not been verified. Other menu levels are experimental variants.
+
+SHA-256: `4f4439d1b0117e3bac555c490ac4dde30ba893f83f3bae60d958cd4611ea8bad`.
+
+Real gameplay imagery, full controls and feedback comments are available on the itch.io page.
 
 ## About this showcase
 

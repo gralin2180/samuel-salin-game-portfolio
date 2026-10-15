@@ -18,7 +18,7 @@ This is a documentation and gameplay showcase. It does **not** distribute source
 
 ## Playable builds and gameplay
 
-Reviewed gameplay videos and itch.io build links will be added as each project is ready. There are currently no public build links in this repository. Roblox experiences will use their Roblox experience links when published.
+Reviewed gameplay videos and itch.io build links will be added as each project is ready. [Momo’s Adventures now has a free Windows playtest](https://gralin2180.itch.io/momos-adventures), with controls, test limits and a feedback invitation. Roblox experiences will use their Roblox experience links when published.
 
 ## Feedback
 
